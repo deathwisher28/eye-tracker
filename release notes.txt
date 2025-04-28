@@ -1,0 +1,16 @@
+📦 Release Notes - v1.0.0
+✅ Features Implemented
+Horizontal Scrollable Card Viewer
+Enables horizontal scrolling through a series of visually styled cards, suitable for showcasing content on small to large screens.
+
+Responsive Layout with TailwindCSS
+Utilizes TailwindCSS to ensure adaptive layout behavior across devices, maintaining visual consistency and ease of interaction.
+
+Framer Motion Animations
+Smooth fade-in and slide-up animations applied to cards using Framer Motion, enhancing user experience with dynamic transitions.
+
+Clean and Minimal UI
+Aesthetic card layout with rounded corners, subtle shadows, and consistent spacing to maintain a clutter-free and modern design.
+
+Basic Reusability through Data Mapping
+Card contents are dynamically rendered from a data array, allowing easy updates or expansion of cards without altering layout structure.
